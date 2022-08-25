@@ -1,0 +1,40 @@
+<Mime-map>
+<!--
+	<Map suffix="" icon="" />
+-->
+	<Map suffix="exe" icon="application.png" />
+	<Map suffix="pdf" icon="application-pdf.png" />
+	<Map suffix="ps"  icon="application-postscript.png" />
+	<Map suffix="rtf" icon="application-rtf.png" />
+	<Map suffix="xls" icon="application-vnd.sun.xml.calc.png" />
+	<Map suffix="cpp" icon="text-x-c++.png" />
+	<Map suffix="c" icon="text-x-c.png" />
+	<Map suffix="h" icon="text-x-c-header.png" />
+	<Map suffix="htm" icon="text-x-c-header.png" />
+	<Map suffix="html" icon="text-html.png" />
+	<Map suffix="css" icon="text-css.png" />
+	<Map suffix="txt" icon="text.png" />
+	<Map suffix="xml" icon="text-xml.png" />
+	<Map suffix="pl" icon="text-x-perl.png" />
+	<Map suffix="py" icon="text-x-python.png" />
+	<Map suffix="pm" icon="text-x-perl.png" />
+	<Map suffix="mpg" icon="video-mpeg.png" />
+	<Map suffix="mpeg" icon="video-mpeg.png" />
+	<Map suffix="qt" icon="video-quicktime.png" />
+	<Map suffix="asf" icon="video-x-ms-asf.png" />
+	<Map suffix="wmv" icon="video-x-ms-asf.png" />
+	<Map suffix="gz" icon="application-x-compressed-tar.png" />
+	<Map suffix="zip" icon="application-x-compress.png" />
+	<Map suffix="rar" icon="application-x-compress.png" />
+	<Map suffix="bzp" icon="application-x-bzip.png" />
+	<Map suffix="bz" icon="application-x-bzip.png" />
+	<Map suffix="bzip" icon="application-x-bzip.png" />
+	<Map suffix="bmp" icon="image-bmp.png" />
+	<Map suffix="gif" icon="image-gif.png" />
+	<Map suffix="jpg" icon="image-jpeg.png" />
+	<Map suffix="jpeg" icon="image-jpeg.png" />
+	<Map suffix="png" icon="image-png.png" />
+	<Map suffix="tif" icon="image-tiff.png" />
+	<Map suffix="tiff" icon="image-tiff.png" />
+	<Default>default.png</Default>
+</Mime-map>
