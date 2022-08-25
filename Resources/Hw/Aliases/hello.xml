@@ -1,0 +1,15 @@
+<?xml version="1.1" ?>
+<Aliases>
+	<Alias>
+		<Name>hello</Name>
+		<ReplaceBeforeArgs>python hello.py -args "</ReplaceBeforeArgs>
+		<ReplaceAfterArgs>" -project Hw</ReplaceAfterArgs>
+		<Help>    Just for debug python script  </Help>
+		<Help> if no arg provided, terminal will enter pytion debug mode.</Help>
+		<Help> </Help>
+		<Help>Optional Arguments:  [user] </Help>
+		<Help>    </Help>
+		<Help>Ex:  hello 	</Help>
+		<Help>     hello sam	</Help>
+	</Alias>
+</Aliases>

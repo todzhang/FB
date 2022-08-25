@@ -1,0 +1,14 @@
+<?xml version="1.1" ?>
+<Aliases>
+	<Alias>
+		<Name>pdb</Name>
+		<ReplaceBeforeArgs>python pdb.py -args "</ReplaceBeforeArgs>
+		<ReplaceAfterArgs>" -project Hw</ReplaceAfterArgs>
+		<Help>    Just for debug python script  </Help>
+		<Help> if no arg provided, terminal will enter pytion debug mode.</Help>
+		<Help> </Help>
+		<Help>Optional Arguments:  [args] </Help>
+		<Help>    </Help>
+		<Help>Ex:  pdb 	</Help>
+	</Alias>
+</Aliases>

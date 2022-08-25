@@ -1,0 +1,20 @@
+
+@include "_Versions.dsi";
+
+@echo off;
+
+bool $rtn=true;
+string $hostname;
+
+echo "--------------------------------------------------\n";
+echo "Hello world!";
+
+
+
+GetEnv("_HOSTNAME", $hostname);
+echo $hostname;
+
+
+return $rtn;
+
+
